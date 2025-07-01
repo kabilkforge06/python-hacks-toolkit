@@ -1,5 +1,3 @@
-## 📸 Screenshot
-
 ![GUI Screenshot](image.png)
 
 # 🧠 Python Hacks Toolkit
