@@ -31,6 +31,6 @@ This tool is designed to **demonstrate clean and clever Python tricks**, useful 
 ### ▶️ Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-hacks-toolkit.git
+git clone https://github.com/kabilkforge06/python-hacks-toolkit.git
 cd python-hacks-toolkit
 python main.py
